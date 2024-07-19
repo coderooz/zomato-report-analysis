@@ -22,7 +22,7 @@ Permission is granted, free of charge, to use this software for personal, educat
 
 ## Contact Information
 
-For any questions or requests regarding this license, please contact [Your Name] at [Your Email Address].
+For any questions or requests regarding this license, please contact **Ranit Saha** at viewersweb02@gmail.com.
 
 ---
 
